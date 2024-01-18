@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/Pathbuilder-Tutorial-CN/","title":"Pathbuilder教程","tags":["中文"],"noteIcon":"","updated":"2024-01-17T19:58:54.249-08:00"}
+{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/Pathbuilder-Tutorial-CN/","title":"Pathbuilder教程","tags":["中文"],"noteIcon":"","updated":"2024-01-18T15:29:49.204-08:00"}
 ---
 
 # Pathbuilder使用教程
@@ -99,6 +99,7 @@
 
 [[PF2E Resources - Chinese/2-Character-Creation-Guide-CN#写在前面\|^返回导览]]
 
+
 </div></div>
 
 
@@ -115,4 +116,138 @@
 
 
 ![mstqym4MiTOLtTZ](https://i.imgur.com/WhU8yPb.png)
+
+最后，再向下继续前，记得保存你的角色！
+首先，在右上方角色名处填上角色名字。
+![0Czzv2C48YNKohU](https://i.imgur.com/jWCJ42S.png)
+然后点击Menu，然后选择 角色【Character】- 保存角色【Save Character\[Local\]】。
+![a8sKQpl12s7PBXC](https://i.imgur.com/jAl8uhJ.png)
+
+点击【Accept】保存。
+如果不是一个全新的角色，可以去掉【Make a new copy】的选项，省空间。
+你也可以登录，付费后打开保存在GoogleDrive上的选项。付费后这个软件可以管理魔宠和宠物。5.99刀不算贵。
+![cRldhaqtdJtPecZ](https://i.imgur.com/uSHKbTV.png)
+
+
+### 1. 选择族裔、背景、职业
+这个例子中我想建一个名叫艾琳·洛尔迦的人类天使牧师。
+首先选上ABC！
+![B4vEZF8UvajC5JW](https://i.imgur.com/FFeiFvP.png)
+在另一个页面中打开中文译本：
+[【果园翻译】《玩家核心》](http://bbs.goddessfantasy.net/bbs/index.php?topic=144034.0) 
+果园上的翻译有带英文，方便查询。
+
+> [!hint]+ 非核心内容
+> 在Pathbuilder中，有时默认只会显示核心和常规内容。如果想要选择非核心的族裔与背景，可以在下列弹框中打开相应的选项卡或者最后的选项卡来显示全部内容【All】。
+
+点击【Ancestry】选择族裔
+> [!example] 举例：族裔
+>  我这里选择人类。在果园的核心术目录上找到人类【Human】的章节，在Pathfinder上选择【Human】。点开一会儿参考。
+
+![wjxMI0PBIvZ2Xi2](https://i.imgur.com/e9QUDbd.png)
+
+
+在果园的核心术目录上上找到第二章中背景的部分，打开背景的网页，阅读并选择你想要的背景。决定后，在列表里找到相应的英文。
+每个背景会给予你的角色一项专长，一项固定的属性加成，一项自由的属性加成及一些技能训练。如果你想要选择某些特定的属性，可以在上方的选项中过滤。 
+
+> [!example] 举例：背景
+> 我感觉艾琳是个四处表演的偶像级牧师，所以我想选择艺人【Entertainer】背景。 
+> 我在背景列表中找到 E - 【Entertainer】
+
+![ZMCSnKVx4rx47zd](https://i.imgur.com/KNr59Yv.png)
+
+
+最后选择职业，在在果园目录第3章上找到想要的职业和它的英文，如法炮制。
+
+牧师【Cleric】，在Pathbuilder上选择相应的英文【Cleric】。
+![yGByGuX9hflaW2n](https://i.imgur.com/MTz5Xy5.png)
+
+### 2. 选择属性与技能
+![czNPnDiOWKl98Ru](https://i.imgur.com/3rmvvsu.png)
+
+\*属性的旧版英文为【Ability】，重制版叫【Attribute】。
+
+点击 分配属性【Set Abilities】，根据下列翻译分配属性点。
+力量 - Strength - STR 
+敏捷 - Dexterity - DEX 
+体质 - Constitution - CON 
+智力 - Intelligence - INT 
+感知 - Wisdom - WIS 
+魅力 - Charisma - CHA 
+
+注意每次你从同一个规则得到属性提升时，不能选择同样的属性来应用提升。也就是说，在每一行中不能选择同样的属性。
+![LXWvbHckxFBoaGG](https://i.imgur.com/vjNW2AG.png)
+
+
+> [!example] 举例：分配属性点
+> 族裔的属性提升我选择了感知（牧师的施法关键属性），敏捷（AC提升）
+> 背景的属性提升，我再次选择了感知，然后为了角色的RP选择了魅力。艾琳可是个可爱的偶像！
+> 第三行中，艾琳的牧师职业提供了一次感知提升。
+> 接下来，每个人都有的四项自由属性提升中，我选择将属性点分配到了除了力量与智力以外的属性上。
+
+接下来，选择技能提升【Skill Training】，有时你会从其他的来源得到技能点，会有两个技能提升框。
+背景与职业固定的属性提升已经被应用了，在技能提升弹框的上方，你可以看到自己还剩下几次技能提升。
+一级角色最多只能将技能提升到受训，你不能在同一技能上重复应用技能点。
+
+\*以后升级中，如果你获得熟练度时技能已经达到了该熟练度，那次提升则会被无视（例如你已经有专家级的奥秘时再次获得了一项专长，给予你专家级的奥秘熟练度，你不会变成大师级的奥秘，而是直接无视这次加成。）
+
+附下表以供参考。也可以在[果园核心书目录](([http://bbs.goddessfantasy.net/bbs/index.php?topic=144034.0](http://bbs.goddessfantasy.net/bbs/index.php?topic=144034.0))的第四章中找到更多的技能相关信息。
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/pf-2-e-resources-chinese/2-character-creation-guide-cn/#" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### 技能指南
+
+##### 技能列表
+| 技能名 | 英文 | 属性 | 属性 | 未受训动作 | 受训动作 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 特技 | Acrobatics | DEX | 敏捷 | 保持平衡<span class=Pathfinder>⬻</span>    翻滚<span class=Pathfinder>⬻</span>   | 空中调整<span class=Pathfinder>⬻</span>   挤入(E) |
+| 奥法 | Arcana | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span>  | 借阅奥术法术(E)  解译文书(E)  辨识魔法(E)  学习法术(E) |
+| 运动 | Athletics | STR | 力量 | 攀爬<span class=Pathfinder>⬻</span>  拆破<span class=Pathfinder>⬻</span>  擒拿<span class=Pathfinder>⬻</span>  跳高<span class=Pathfinder>⬺</span>  跳远<span class=Pathfinder>⬺</span> <br>移位<span class=Pathfinder>⬻</span>  推撞<span class=Pathfinder>⬻</span>  游泳<span class=Pathfinder>⬻</span>  摔绊<span class=Pathfinder>⬻</span> <br>    | 缴械<span class=Pathfinder>⬻</span>  |
+| 手艺 | Crafting | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span>  修理(E) | 制作(D)  赚取收入(D)  辨识炼金术(E)   |
+| 欺骗 | Deception | CHA | 魅力 | 分神<span class=Pathfinder>⬻</span>   乔装(E)   说谎 | 虚招<span class=Pathfinder>⬻</span>  |
+| 交涉 | Diplomacy | CHA | 魅力 | 搜集信息(E)    建立印象(E)   请求<span class=Pathfinder>⬻</span>  |  |
+| 威吓 | Intimidation | CHA | 魅力 | 胁迫(E) 挫败士气<span class=Pathfinder>⬻</span>  |  |
+| 学识 | Lore | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span>  | 赚取收入(D) |
+| 医疗 | Medicine | WIS | 感知 | 急救<span class=Pathfinder>⬺</span>  回忆知识<span class=Pathfinder>⬻</span>  | 治疗疾病(D)   治疗中毒<span class=Pathfinder>⬻</span>    治疗伤势(E) |
+| 自然 | Nature | WIS | 感知 | 指挥动物<span class=Pathfinder>⬻</span>  回忆知识<span class=Pathfinder>⬻</span>  | 辨识魔法(E)  学习法术(E) |
+| 神秘 | Occultism | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span>   | 解译文书(E)  辨识魔法(E)  学习法术(E) |
+| 表演 | Performance | CHA | 魅力 | 表演<span class=Pathfinder>⬻</span>  | 赚取收入(D) |
+| 宗教 | Religion | WIS | 感知 | 回忆知识<span class=Pathfinder>⬻</span> | 解译文书(E)  辨识魔法(E)  学习法术(E) |
+| 社群 | Society | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span> | 伪造文书(D)  解译文书(E) |
+| 隐秘 | Stealth | DEX | 敏捷 | 隐藏物件<span class=Pathfinder>⬻</span>   躲藏<span class=Pathfinder>⬻</span>   潜行<span class=Pathfinder>⬻</span>  |  |
+| 生存 | Survival | WIS | 感知 | 辨别方向(E)  求生(D) | 掩盖行踪(E)   追踪(E) |
+| 贼活 | Thievery | DEX | 敏捷 | 手上功夫<span class=Pathfinder>⬻</span>   盗窃<span class=Pathfinder>⬻</span>  | 解除装置<span class=Pathfinder>⬺</span>  开锁<span class=Pathfinder>⬺</span> <br> |
+D 休整模式动作
+E 探索模式动作
+
+</div></div>
+
+![Kh6I7eBr9qla7yc](https://i.imgur.com/GLY6kMU.png)
+> [!example] 举例：传承
+> 艾琳是一名人类，可供选择的传承并不多。我已经设定好艾琳是一个天使族，阅读了传承之后，异界裔是PF2E里的天使、恶魔传承。我点进 全部传承【All Heritage】选项卡中，找到Nephilim。
+
+### 3. 选择其他1级内容
+![1R08nhtNCRmxvBU](https://i.imgur.com/lP6DULI.png)
+每个职业的1级内容都有些不一样。但我们可以首先选择传承和族裔专长。
+从[果园核心书目录](([http://bbs.goddessfantasy.net/bbs/index.php?topic=144034.0](http://bbs.goddessfantasy.net/bbs/index.php?topic=144034.0))中第二招打开你所选的族裔，或者多用传承的页面，跳到传承选项部分，阅读选择做出决定。决定后，在传承选项中找到相应的英文。
+先别关族裔及传承网页！
+![CKR92kKYvxiqS2i](https://i.imgur.com/DMjCd8V.png)
+> [!example] 举例：传承
+> 艾琳是一名人类，可供选择的传承并不多。我已经设定好艾琳是一个天使族，阅读了传承之后，异界裔是PF2E里的天使、恶魔传承。我点进 全部传承【All Heritage】选项卡中，找到Nephilim。
+
+选择了传承之后，对照着族裔页（如果选择了多用传承，参考族裔+多用传承页）阅读可以选用的专长，选择你想要的一项族裔专长后，找到或搜索相应的英文。
+如果软件不让选择该专长，请查看你的先决条件是否符合！
+
+![mUrjyonegEWJq6d](https://i.imgur.com/y31HWlm.png)
+> [!example] 举例：族裔专长
+> 艾琳是人类异界裔，不但可以选择异界裔特殊的专长，也可以选人类的专长，参考了可控选择的专长后，我选择了异界裔的血脉专长天使裔作为1级的族裔专长，在技能分配处获得了一个新的社会技能点，记得加上。
+
+最后，选择职业的选项！再次在[果园核心书目录]((http://bbs.goddessfantasy.net/bbs/index.php?topic=144034.0) 上的第三章中打开你的职业，然后跟着书进行选择。
+
+> [!example] 举例：职业选项
+> 艾琳是一位牧师。按照书中介绍，我首先应该先选择一位神祇。 神祇的选择并不影响具体角色构建，你可以在[中文维基](https://pf2.huijiwiki.com/wiki/%E4%BF%A1%E4%BB%B0)找到格拉利昂相关的神祇内容。如果是GM自写的团，则向GM寻求帮助。
+> 我在这里为艾琳选择了黛丝娜作为信仰的神祇，坚持贯彻魔法少女牧师的人设。黛丝娜的领域是梦境、机运、月亮，偏好武器是星刃，神力源泉是治疗术，。记下神帝相关的属性后
+> 
 
