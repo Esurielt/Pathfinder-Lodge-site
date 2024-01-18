@@ -119,10 +119,9 @@ ABC外，还有一个D，各种细节。除了通过书中的选项入手，你�
 
 
 >[!abstract|no-icon] 吟游诗人
-> #职业类型/施法 | #KeyAttribute/CHA| #施法根源/异能 | #施法类型/自发法术
+> #职业类型/施法 | #KeyAttribute/CHA | #施法根源/异能 | #施法类型/自发法术
 > 
-> 
-难度：★★★ 
+> 难度：★★★ 
 > 攻击：★★
 > 防御：★★
 > 辅助：★★★★★
@@ -277,8 +276,8 @@ ABC外，还有一个D，各种细节。除了通过书中的选项入手，你�
 
 
 >[!abstract|no-icon] 法师
-> #职业类型/施法 | #KeyAttribute/INT | #施法根源/奥术 | #施法类型/准备法术 
->
+> #职业类型/施法 | #KeyAttribute/INT | #施法根源/奥术 | <a class="tag" style="background-color:saddlebrown" onclick="toggleTagSearch(this)" data-content="#施法类型/准备法术">准备法术</a>
+> 
 > 难度：★★★☆
 > 攻击：★★★
 > 防御：★

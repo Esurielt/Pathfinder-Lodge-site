@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/Classes/Bard-CN/","title":"吟游诗人","tags":["中文"],"noteIcon":"","updated":"2024-01-17T21:02:46.422-08:00"}
+{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/Classes/Bard-CN/","title":"吟游诗人","tags":["中文"],"noteIcon":"","updated":"2024-01-17T21:37:46.890-08:00"}
 ---
 
 >[!abstract|no-icon] 吟游诗人
-> #职业类型/施法 | #KeyAttribute/CHA| #施法根源/异能 | #施法类型/自发法术
+> #职业类型/施法 | #KeyAttribute/CHA | #施法根源/异能 | #施法类型/自发法术
 > 
-> 
-难度：★★★ 
+> 难度：★★★ 
 > 攻击：★★
 > 防御：★★
 > 辅助：★★★★★
