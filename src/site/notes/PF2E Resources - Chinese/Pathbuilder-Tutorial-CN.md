@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/Pathbuilder-Tutorial-CN/","title":"Pathbuilder教程","tags":["中文"],"noteIcon":"","updated":"2024-01-19T23:19:55.641-08:00"}
+{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/Pathbuilder-Tutorial-CN/","title":"Pathbuilder教程","tags":["中文"],"noteIcon":"","updated":"2024-01-20T05:29:08.711-08:00"}
 ---
 
 # Pathbuilder使用教程
@@ -44,37 +44,59 @@
 - 推荐PF2e新手点击 **仅核心游戏**【Core Game Only】。
 - 如果你非常想体验下列职业，则点击 **直接开始**【Get Started】。
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/pf-2-e-resources-chinese/2-character-creation-guide-cn/#" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/pf-2-e-resources-chinese/2-character-creation-guide-cn/#otherclasses" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-## 预设卡
-如果暂时懒得车卡，可以考虑直接用预设卡或以预设卡为基础改动。
-这些预设卡已在Foundry里内置。
->[!column|flex 3]+ 简中预设卡下载
->> [!success] 新手推荐
->> - 战士 [Lv1](https://cowtransfer.com/s/9fc33aaea58442)  
->> - 游荡者 Lv1
->> - 牧师 [Lv1](https://cowtransfer.com/s/0ea920ca583647)
->> - 术士 Lv1
->> - 法师 Lv1
->> - 游侠 Lv1
->> - 野蛮人 Lv1
+>[!help|bg-brown]+ 想要体验非核心内容？
+> 下列职业不在新版核心书中。如果想要体验下列职业，推荐联系GM寻求帮助。下列职业有些是旧核心内容，但有些不推荐新手游玩。不过如果喜欢，也是可以玩的！
+> >[!hint|collapse bg-red c-green]- 术士：难度★★ 【非常推荐】
+> > 全游戏最简单法职。想玩法职的话，推荐从术士开始。 
+> 
+> >[!hint|collapse bg-orange c-green]- 野蛮人：难度★ 【推荐】
+> >简单容易，新人完全可以玩。 
+> 
+> >[!hint|collapse  bg-yellow c-green]- 浪客：难度★★ 【DnD玩家推荐】
+> > 对TTRPG熟客来说并不是很难，设计很有趣的一个职业。非常推荐对5e熟悉，想要多点鬼点子、或者想要耍帅的玩家。
+> > 游戏循环很酷，靠使用华丽的行动来维持自己的“派头”状态！这个职业可以逼着你多使用各种各样的技能动作，例如翻滚、威吓、表演、欺骗来维持自己的风度和杀伤力，体会到PF2e与DnD对战斗动作设计上的不同。 
 >
->> [!tip] 其余核心职业
->> - 吟游诗人 
->> - 武僧
->> - 德鲁伊
->> - 浪客
->> - 女巫 【不太推荐】
->> - 神卫
+> >[!hint|collapse bg-brown c-gray]- 神卫：难度★★ 
+> >不难，如果想做坦克的话，这是全游戏最铁职业。但不是很推荐在新版更新这个职业前玩——大部分职业特性都可能因为阵营九宫格的去除而需要重做。
+> >对于5e玩家来说，这个职业是pf2的圣骑士，但是没有圣骑士那么强的离谱。 
 >
->> [!warning] 进阶/扩展职业
->> - 调查员 
->> - 召唤师 【不推荐】
->> - 炼金术士 【非常不推荐】
->> - 先知 【非常不推荐】 
-
+> > [!hint|collapse bg-green c-gray]- 枪手：难度★★★ 【不太推荐】
+> > 难度和受欢迎度适中的职业，最难的地方在于枪需要换弹。这个职业暴击伤害很离谱，但是动作经济很难把控，所以推荐新人先尝试同是远程的游侠。 
+> 
+> >[!hint|collapse bg-red c-gray]- 御能师：难度★★★★ 
+> > 御能士已经更新到重制版的规则，不是核心职业。御能师很神奇的是个体质（CON）职业，是个法师、也是战士、坦克、辅助、群攻群控、单体爆伤……总之就是相对复杂。不是特别推荐新人直接上手，但是真的很酷。
+> 
+> > [!hint|collapse bg-blue c-gray]- 调查员：难度★★★★【不太推荐】
+> > 挺强但是非常难，需要和GM有比较多的讨论，适合喜欢侦探RP的玩家。推荐玩会了一两个职业后再尝试。 
+>
+> >[!hint|collapse c-gray]- 心灵者：难度★★★★ 【不太推荐】
+> > 非常依靠聚能法术的职业，考验资源管理。
+> > 心灵者可以短时间增强自己，但是两回合之后就会“变傻”施法容易失败，考虑的比较多，挺复杂的。不是特别推荐新手入门用。但新版增强了“再聚能”，可以做到30分钟回满法术槽，可能有点5E战锁(Warlock)的感觉。 
+> 
+> > [!hint|collapse bg-gray c-brown]- 发明家：难度★★★ 【不推荐】
+> > 难度偏高、受欢迎度适中的职业。车卡复杂度很高，相比其他物理职业有非常多的选择。推荐了解游戏平衡和物品经济之后再尝试。 
+> 
+> > [!hint|collapse bg-purple c-brown]- 奇术师：难度★★★★【不推荐】
+> > 难度高，人气适中的职业。玩起来有点像物职的法职，个人很喜欢，但是是规则最厚的职业，十分的复杂。新人上手时需要考虑太多了，不推荐。 
+> 
+> >[!hint|collapse bg-pink c-brown]- 召唤师：难度★★★★★ 【不推荐】
+> > 非常难的角色，需要双操，而且还是法职。新手推荐学会一两个法职之后再挑战。 
+> 
+> >[!hint|collapse bg-red c-brown]- 魔战士：难度★★★★ 
+> > 魔战士是PF2最受欢迎的职业之一。如果你喜欢Gish（半法半物理）的角色，魔战士基本完全达成你的目标。 
+> > 唯一问题就是它有点难，同时学习近战和法师可能比较复杂；它施法的规则也和其他法职大不相同，新人玩起来会比较懵。适合你学会了一个法职一个物职之后再玩。 
+> 
+> >[!danger|collapse bg-gray]- 炼金术士：难度★★★★★ 【非常不推荐】
+> > 难度爆表，非常不推荐新人。需要对炼金物品有详细的了解，不然很容易建出垃圾人物。可能是全游戏最难职业。急需新版平衡。  
+> 
+> >[!danger|collapse bg-gray]- 先知：难度★★★★★ 【非常不推荐】
+> > 非常不推荐，PF系列最经典职业之一，但也是全游戏最垃圾职业，非常急需平衡。 
+> > 
 
 </div></div>
 
