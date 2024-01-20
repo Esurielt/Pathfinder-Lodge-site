@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/2-Character-Creation-Guide-CN/","title":"车卡指南","pinned":true,"tags":["中文"],"noteIcon":"","updated":"2024-01-17T19:58:54.173-08:00"}
+{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/2-Character-Creation-Guide-CN/","title":"车卡指南","pinned":true,"tags":["中文"],"noteIcon":"","updated":"2024-01-20T04:42:22.590-08:00"}
 ---
 
 # PF2R 车卡指南
@@ -11,6 +11,33 @@ PF2e最出彩的一点便是它自由爆表的车卡系统。它将角色选项�
 
 这篇文章主要针对于读过了[[PF2E Resources - Chinese/1-Player-Core-Ch1-CN\|玩家核心书第一章]]的PF2e新人玩家，或者是从DnD5e过来的TTRPG老手，辅助核心书或其他几个具体的车卡工具教程。
 
+## 预设卡
+如果暂时懒得车卡，可以考虑直接用预设卡或以预设卡为基础改动。
+这些预设卡已在Foundry里内置。
+>[!column|flex 3]+ 简中预设卡下载
+>> [!success] 新手推荐
+>> - 战士 [Lv1](https://cowtransfer.com/s/9fc33aaea58442)  
+>> - 游荡者 Lv1
+>> - 牧师 [Lv1](https://cowtransfer.com/s/0ea920ca583647)
+>> - 术士 Lv1
+>> - 法师 Lv1
+>> - 游侠 Lv1
+>> - 野蛮人 Lv1
+>
+>> [!tip] 其余核心职业
+>> - 吟游诗人 
+>> - 武僧
+>> - 德鲁伊
+>> - 浪客
+>> - 女巫 【不太推荐】
+>> - 神卫
+>
+>> [!warning] 进阶/扩展职业
+>> - 调查员 
+>> - 召唤师 【不推荐】
+>> - 炼金术士 【非常不推荐】
+>> - 先知 【非常不推荐】 
+
 ## 车卡方式
 车卡的方式有很多，下列是我比较推荐的几种工具和它们的车卡流程。
 
@@ -19,18 +46,25 @@ PF2e最出彩的一点便是它自由爆表的车卡系统。它将角色选项�
 
 [Pathbuilder 2e](https://pathbuilder2e.com/) 是一款英文全自动PF2车卡工具，已经更新到PF2r。支持网页（平板或电脑）或安卓软件。
 
-- 全程辅助！全自动化，过程顺畅，快速方便计划升级、法术和装备 
-- 所有官方选择都有而且已经更新到Remaster版。
-- 可以直接导入FoundryVTT
-- 全英文，可能需要对照中文翻译 
+>[!column|flex 2 no-title]
+>> [!info|clean no-title] 
+>>  - 全程辅助！全自动化，过程顺畅，快速方便计划升级、法术和装备 
+>>  - 所有官方选择都有而且已经更新到Remaster版。
+>>  - 可以直接导入FoundryVTT
+>>  - 全英文，可能需要对照中文翻译 
+>
+>> [!note|clean no-title]
+>> ![nZ6pdotJisB0GWN|hs-med](https://i.imgur.com/OoVWdlU.png)
 
+-
 教程走这里 <span class=Pathfinder>⬻</span> [[PF2E Resources - Chinese/Pathbuilder-Tutorial-CN\|Pathbuilder车卡教程]] 
+
 
 ### Foundry VTT 虚拟桌面
 
 Foundry VTT是一款非常常用的虚拟桌游平台（VTT）。*（也是我个人最喜欢的VTT！）* FVTT有着无与伦比的自动化和多样的插件，内置的官方支持、社区维护的系统做的极好，更新也超快，大部分内容都已汉化，是国内外首选的网团虚拟桌面软件。
 
-- 全自动人物卡，只需拖拽元素就可高速车卡
+- 全自动人物卡，只需拖拽元素就可快速车卡
 - FVTT的PF2系统与软件大部分已被汉化
 - 人物卡即插即玩！我的团即便是面团也会使用Foundry，所以人物卡总会移到上面的，等于帮我省时间 (～￣▽￣)～
 - 不像Pathbuilder，FVTT并没有自动化创建与升级流程。车卡过程和角色卡相似，需要对照着书中的内容逐步填写。Foundry只是简化了所有计算内容。
@@ -70,11 +104,10 @@ ABC外，还有一个D，各种细节。除了通过书中的选项入手，你�
 西幻游戏里最常见的种族，PF2e的精灵保持了常见的梗：高挑优美，渊博古老，有文化又有魅力，但是体弱又有点自私。因为文化中有着远古的魔法传统，也是法职经常选的族裔。
 格拉利昂故事上来讲，精灵在百年前离开星球躲避灾难，后来再次回归母星——所以大家也叫他们外星人（不是）。 
 精灵的适应能力很强，这一点从它的传承上就能看出来，每个传承，除了强的爆表的古代精灵以外，都是有关生存地形的传承。这些传承从设计上来讲完全不弱。配合背景可以很容易创建出围绕一个地区展开的角色。
-
-
+（待施工）
 
 ### 背景指南
-
+（待施工）
 
 ###  职业指南
 职业可以说是RPG里最重要的概念了。 
@@ -342,3 +375,28 @@ ABC外，还有一个D，各种细节。除了通过书中的选项入手，你�
 > > 
 
 [[PF2E Resources - Chinese/2-Character-Creation-Guide-CN#写在前面\|^返回导览]]
+
+### 技能指南
+
+##### 技能列表
+| 技能名 | 英文 | 属性 | 属性 | 未受训动作 | 受训动作 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 特技 | Acrobatics | DEX | 敏捷 | 保持平衡<span class=Pathfinder>⬻</span>    翻滚<span class=Pathfinder>⬻</span>   | 空中调整<span class=Pathfinder>⬻</span>   挤入(E) |
+| 奥法 | Arcana | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span>  | 借阅奥术法术(E)  解译文书(E)  辨识魔法(E)  学习法术(E) |
+| 运动 | Athletics | STR | 力量 | 攀爬<span class=Pathfinder>⬻</span>  拆破<span class=Pathfinder>⬻</span>  擒拿<span class=Pathfinder>⬻</span>  跳高<span class=Pathfinder>⬺</span>  跳远<span class=Pathfinder>⬺</span> <br>移位<span class=Pathfinder>⬻</span>  推撞<span class=Pathfinder>⬻</span>  游泳<span class=Pathfinder>⬻</span>  摔绊<span class=Pathfinder>⬻</span> <br>    | 缴械<span class=Pathfinder>⬻</span>  |
+| 手艺 | Crafting | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span>  修理(E) | 制作(D)  赚取收入(D)  辨识炼金术(E)   |
+| 欺骗 | Deception | CHA | 魅力 | 分神<span class=Pathfinder>⬻</span>   乔装(E)   说谎 | 虚招<span class=Pathfinder>⬻</span>  |
+| 交涉 | Diplomacy | CHA | 魅力 | 搜集信息(E)    建立印象(E)   请求<span class=Pathfinder>⬻</span>  |  |
+| 威吓 | Intimidation | CHA | 魅力 | 胁迫(E) 挫败士气<span class=Pathfinder>⬻</span>  |  |
+| 学识 | Lore | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span>  | 赚取收入(D) |
+| 医疗 | Medicine | WIS | 感知 | 急救<span class=Pathfinder>⬺</span>  回忆知识<span class=Pathfinder>⬻</span>  | 治疗疾病(D)   治疗中毒<span class=Pathfinder>⬻</span>    治疗伤势(E) |
+| 自然 | Nature | WIS | 感知 | 指挥动物<span class=Pathfinder>⬻</span>  回忆知识<span class=Pathfinder>⬻</span>  | 辨识魔法(E)  学习法术(E) |
+| 神秘 | Occultism | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span>   | 解译文书(E)  辨识魔法(E)  学习法术(E) |
+| 表演 | Performance | CHA | 魅力 | 表演<span class=Pathfinder>⬻</span>  | 赚取收入(D) |
+| 宗教 | Religion | WIS | 感知 | 回忆知识<span class=Pathfinder>⬻</span> | 解译文书(E)  辨识魔法(E)  学习法术(E) |
+| 社群 | Society | INT | 智力 | 回忆知识<span class=Pathfinder>⬻</span> | 伪造文书(D)  解译文书(E) |
+| 隐秘 | Stealth | DEX | 敏捷 | 隐藏物件<span class=Pathfinder>⬻</span>   躲藏<span class=Pathfinder>⬻</span>   潜行<span class=Pathfinder>⬻</span>  |  |
+| 生存 | Survival | WIS | 感知 | 辨别方向(E)  求生(D) | 掩盖行踪(E)   追踪(E) |
+| 贼活 | Thievery | DEX | 敏捷 | 手上功夫<span class=Pathfinder>⬻</span>   盗窃<span class=Pathfinder>⬻</span>  | 解除装置<span class=Pathfinder>⬺</span>  开锁<span class=Pathfinder>⬺</span> <br> |
+D 休整模式动作
+E 探索模式动作
