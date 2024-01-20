@@ -1,4 +1,66 @@
 ---
-{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/Foundry-Tutorial-CN/","title":"Foundry中文教程","tags":["中文"],"noteIcon":"","updated":"2024-01-17T19:58:54.231-08:00"}
+{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/Foundry-Tutorial-CN/","title":"Foundry中文教程","tags":["中文"],"noteIcon":"","updated":"2024-01-20T00:55:49.454-08:00"}
 ---
 
+# Foundry VTT 教程
+以下文字教程主要帮助玩家车卡。
+
+想看视频的可以参考这个视频具体了解FVTT的用法与车卡过程！
+[我第一次用FVTT跑PF2e团，我应该知道什么？——玩家向FVTT操作教学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wg4y1p7JU/?spm_id_from=333.337.search-card.all.click&vd_source=61c4bbc7ba7aef455d6edcd014eeb09f)
+
+
+## 登入服务器
+每场团大概都会有各自的服务器，GM会将链接和登录信息提供给你，你只需要一台电脑和浏览器即可登入。
+FVTT非常强大，所以有一些最低系统要求：
+Windows 10 或11
+能打开硬件加速的集成GPU
+8GB RAM
+至少1366 x 768px的显示器
+能打开硬件加速的浏览器，例如谷歌、火狐、Opera、Edge等等。（不支持Safari）
+
+你需要打开你浏览器的硬件加速（Hardware Acceleration）。每个浏览器设置的过程都不太一样，建议搜索一下【你的浏览器 如何打开硬件加速】。
+
+
+在打开服务器链接后，会看到一个类似这个的界面：
+![s7HmlV09ZYPXvS9](https://i.imgur.com/vN81CX3.jpeg)
+可能你的界面根据系统已经直接调成中文了，如果没有，不用担心，进入之后可以设置。
+
+选择你的玩家账户，在第二栏填入密码。点击【Join Game Session】加入游戏。
+
+登入之后，会弹出玩家设置框。在这里你点击上传一个图片文件或者提供给GM一个图片文件作为你的玩家头像，选择你喜欢的玩家颜色，最重要的是，你可以选择自己能掌控的角色。 
+![8UfvXPzwUHnBZDN](https://i.imgur.com/OoJMjiE.png)
+以后你可以在左下角的玩家框中，右键自己的玩家名来更改玩家设置。
+
+
+## Foundry 车卡教程
+
+首先，在右边栏中点进角色选项卡。
+这里包含了所有可以拖到地图上的角色，你可能可以看到同队的角色，但是根据权限的不同，你不能拖拽、更改或查看其他队友的信息。
+
+点开你的角色，改成你想用的名字。
+![hcJohj2AfoiJKuR](https://i.imgur.com/wfuaLud.png)
+
+
+接下来，根据[[PF2E Resources - Chinese/1-Player-Core-Ch1-CN#创建角色\|核心书第一章创建角色部分]]所述的流程开始创建角色！
+
+你可以通过点击每个选项框旁边的放大镜来搜索你想要的元素，找到后，将元素==**拖拽**==到相应的框里。
+重点再说一遍，需要【拖拽】该元素到相应的框里。不是双击。
+
+你可以点击每个元素来查看他们的简介，但我推荐你打开[中文维基](https://pf2.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)或[果园核心书](http://bbs.goddessfantasy.net/bbs/index.php?topic=144034.0)相应的页面来阅读你喜欢的选项。
+FVTT中包含了目前所发布的所有的规则书中的角色选项，并已经更新到了最新的重制版与修正。但是对于新人来说可能选择太多，所以推荐从核心书中的选项开始。
+
+在下面的例子中，我想要创建一个精灵族女巫名为瓦西里欧斯。
+
+首先选择ABC——族裔、背景与职业。
+点击种族框上的放大镜弹出族裔选择框。这里我选择精灵族，将精灵族**拖拽**进种族框里。
+![TyCKpP77qWfLWki](https://i.imgur.com/R2Cz9xi.png)
+
+传承并没有根据族裔做出限制，所以你需要查看族裔的页面或多用传承页面找到合规的、你想用的传承。
+我这里选择了一项多用传承——替换儿。
+
+背景比较简单，阅读列表中的背景及参考维基上的信息后，我选择了殡仪员。
+
+最后选择职业！拖拽你想要的到职业框之后，系统会提示让你做出一系列的选择。
+但是Foundry并不会自动化所有的选择。
+
+我选择的是召唤师，
