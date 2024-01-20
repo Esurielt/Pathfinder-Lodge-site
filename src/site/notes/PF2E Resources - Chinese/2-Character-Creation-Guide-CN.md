@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/2-Character-Creation-Guide-CN/","title":"车卡指南","pinned":true,"tags":["中文"],"noteIcon":"","updated":"2024-01-20T04:42:22.590-08:00"}
+{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/2-Character-Creation-Guide-CN/","title":"车卡指南","pinned":true,"tags":["中文"],"noteIcon":"","updated":"2024-01-20T04:49:03.009-08:00"}
 ---
 
 # PF2R 车卡指南
@@ -324,7 +324,7 @@ ABC外，还有一个D，各种细节。除了通过书中的选项入手，你�
 
 中文维基  |  [[PF2E Resources - Chinese/2-Character-Creation-Guide-CN#写在前面\|^返回导览]] 
 
-#### 非核心内容
+#### 其他职业
 >[!help|bg-brown]+ 想要体验非核心内容？
 > 下列职业不在新版核心书中。如果想要体验下列职业，推荐联系GM寻求帮助。下列职业有些是旧核心内容，但有些不推荐新手游玩。不过如果喜欢，也是可以玩的！
 > >[!hint|collapse bg-red c-green]- 术士：难度★★ 【非常推荐】
