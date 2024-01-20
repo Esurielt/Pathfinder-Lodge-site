@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/2-Character-Creation-Guide-CN/","title":"车卡指南","pinned":true,"tags":["中文"],"noteIcon":"","updated":"2024-01-18T00:10:06.117-08:00"}
+{"dg-publish":true,"permalink":"/PF2E Resources - Chinese/2-Character-Creation-Guide-CN/","title":"车卡指南","pinned":true,"tags":["中文"],"noteIcon":"","updated":"2024-01-20T04:42:22.590-08:00"}
 ---
 
 # PF2R 车卡指南
@@ -11,6 +11,33 @@ PF2e最出彩的一点便是它自由爆表的车卡系统。它将角色选项�
 
 这篇文章主要针对于读过了[[PF2E Resources - Chinese/1-Player-Core-Ch1-CN\|玩家核心书第一章]]的PF2e新人玩家，或者是从DnD5e过来的TTRPG老手，辅助核心书或其他几个具体的车卡工具教程。
 
+## 预设卡
+如果暂时懒得车卡，可以考虑直接用预设卡或以预设卡为基础改动。
+这些预设卡已在Foundry里内置。
+>[!column|flex 3]+ 简中预设卡下载
+>> [!success] 新手推荐
+>> - 战士 [Lv1](https://cowtransfer.com/s/9fc33aaea58442)  
+>> - 游荡者 Lv1
+>> - 牧师 [Lv1](https://cowtransfer.com/s/0ea920ca583647)
+>> - 术士 Lv1
+>> - 法师 Lv1
+>> - 游侠 Lv1
+>> - 野蛮人 Lv1
+>
+>> [!tip] 其余核心职业
+>> - 吟游诗人 
+>> - 武僧
+>> - 德鲁伊
+>> - 浪客
+>> - 女巫 【不太推荐】
+>> - 神卫
+>
+>> [!warning] 进阶/扩展职业
+>> - 调查员 
+>> - 召唤师 【不推荐】
+>> - 炼金术士 【非常不推荐】
+>> - 先知 【非常不推荐】 
+
 ## 车卡方式
 车卡的方式有很多，下列是我比较推荐的几种工具和它们的车卡流程。
 
@@ -19,18 +46,25 @@ PF2e最出彩的一点便是它自由爆表的车卡系统。它将角色选项�
 
 [Pathbuilder 2e](https://pathbuilder2e.com/) 是一款英文全自动PF2车卡工具，已经更新到PF2r。支持网页（平板或电脑）或安卓软件。
 
-- 全程辅助！全自动化，过程顺畅，快速方便计划升级、法术和装备 
-- 所有官方选择都有而且已经更新到Remaster版。
-- 可以直接导入FoundryVTT
-- 全英文，可能需要对照中文翻译 
+>[!column|flex 2 no-title]
+>> [!info|clean no-title] 
+>>  - 全程辅助！全自动化，过程顺畅，快速方便计划升级、法术和装备 
+>>  - 所有官方选择都有而且已经更新到Remaster版。
+>>  - 可以直接导入FoundryVTT
+>>  - 全英文，可能需要对照中文翻译 
+>
+>> [!note|clean no-title]
+>> ![nZ6pdotJisB0GWN|hs-med](https://i.imgur.com/OoVWdlU.png)
 
+-
 教程走这里 <span class=Pathfinder>⬻</span> [[PF2E Resources - Chinese/Pathbuilder-Tutorial-CN\|Pathbuilder车卡教程]] 
+
 
 ### Foundry VTT 虚拟桌面
 
 Foundry VTT是一款非常常用的虚拟桌游平台（VTT）。*（也是我个人最喜欢的VTT！）* FVTT有着无与伦比的自动化和多样的插件，内置的官方支持、社区维护的系统做的极好，更新也超快，大部分内容都已汉化，是国内外首选的网团虚拟桌面软件。
 
-- 全自动人物卡，只需拖拽元素就可高速车卡
+- 全自动人物卡，只需拖拽元素就可快速车卡
 - FVTT的PF2系统与软件大部分已被汉化
 - 人物卡即插即玩！我的团即便是面团也会使用Foundry，所以人物卡总会移到上面的，等于帮我省时间 (～￣▽￣)～
 - 不像Pathbuilder，FVTT并没有自动化创建与升级流程。车卡过程和角色卡相似，需要对照着书中的内容逐步填写。Foundry只是简化了所有计算内容。
